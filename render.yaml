@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sugar-conann
+    name: sugaru-conann
     env: python
     region: Oregon
     plan: free
